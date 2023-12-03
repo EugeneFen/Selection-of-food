@@ -13,4 +13,5 @@
 
 Пользователь может отмечать любимые продукты ( ≤5), нелюбимые продукты (≤ 5), на странице пользователя. (Сохранять меню, создавать меню, любимые рецепты)
 
-Проект интерфейса пользователя: https://vk.com/away.php?to=https%3A%2F%2Fwww.figma.com%2Ffile%2F9yK5RX0cwXqO3KWnRSbXcq%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DrQq09rsWHaRvMKQu-1&cc_key=
+Проект интерфейса пользователя: https://www.figma.com/file/9yK5RX0cwXqO3KWnRSbXcq/Untitled?type=design&node-id=0-1&mode=design
+
